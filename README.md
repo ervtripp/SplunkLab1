@@ -46,7 +46,7 @@ Select "Security" from "Windows Logs" and clear logs:  <br/>
 <img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1770862917/Screenshot_2026-02-08_162617_vc9td7.png"/>
 <br />
 <br />
-Return to Splunk and search for "EventCode:1102", which is the Audit Log Clear event. That may be something that to question if repeated a certain amount of time over a period of time:  <br/>
+Return to Splunk and search for "EventCode:1102", which is the Audit Log Clear event. That may be something that to question if repeated a certain amount of times over a period of time:  <br/>
 <img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1770863434/Screenshot_2026-02-08_162911_yphesj.png"/>
 <br />
 <br />
