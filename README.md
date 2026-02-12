@@ -66,7 +66,7 @@ SPL query within pulled data can assist with looking further into data: <br/>
 <img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1770864938/Screenshot_2026-02-08_164149_epjwtq.png"/>  
 <br />
 <br />
-exporting logs under the "Actions" tab utilizing JSON format, which is used on many platforms: <br/>
+Exporting logs under the "Actions" tab utilizing JSON format, which is used on many platforms: <br/>
 <img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/v1770865063/Screenshot_2026-02-08_164230_aqmd2j.png"/>  
 <br />
 <br />
