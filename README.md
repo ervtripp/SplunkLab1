@@ -35,7 +35,7 @@ Choose the local event log collection as the data input: <br/>
 <br />
 <br />
 Use "*" to initiate a search for all events over time:  <br/>
-<img src="[[https://res.cloudinary.com/dsz8pn2ym/image/upload/v1744640218/Screenshot_2025-04-12_125806_jeyask.png" height="80%" width="80%" alt="AD DS via VM](https://res.cloudinary.com/dsz8pn2ym/image/upload/v1770861745/Screenshot_2026-02-08_162248_y9dgew.png)](https://res.cloudinary.com/dsz8pn2ym/image/upload/v1770861745/Screenshot_2026-02-08_162248_y9dgew.png)"/>
+<img src="https://res.cloudinary.com/dsz8pn2ym/image/upload/Screenshot_2026-02-08_162248_y9dgew.png"/>
 <br />
 <br />
 Configure IPV4 and DNS Properties For NIC 2 For Users To Gain Access Using Local Internet:  <br/>
